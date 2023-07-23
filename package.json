@@ -6,7 +6,9 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
-    "elysia": "latest"
+    "@sinclair/typebox": "^0.29.6",
+    "elysia": "latest",
+    "mongodb": "^5.7.0"
   },
   "devDependencies": {
     "bun-types": "latest"

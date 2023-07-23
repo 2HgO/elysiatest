@@ -9,7 +9,7 @@ bun create elysia ./elysia-example
 ## Development
 To start the development server run:
 ```bash
-bun run dev
+make run
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+Open http://localhost:55059/ with your browser to see the result.
